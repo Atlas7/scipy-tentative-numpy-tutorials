@@ -12,3 +12,15 @@ I wish that by end of the exercise I will become a more confident user in the fo
 - The Python NumPy Package (i.e. the `numpy` module)
 - IPython Notebook (and the remaining Anaconda packages / tools)
 - GitBash
+
+# Table of Contents
+
+- [Lesson 1: Prerequisites](./lesson-1-prerequisities/lesson-1-prerequisites.ipynb)
+- [Lesson 2: The Basics](./lesson-2-the-basics/lesson-2-the-basics.ipynb)
+- [Lesson 3: Shape Manipulation](./lesson-3-shape-manipulation/lesson-3-shape-manipulation.ipynb)
+- [Lesson 4 - Copies and Views](./lesson-4-copies-and-views/lesson-4-copies-and-views.ipynb)
+- [Lesson 5 - Less basics](./lesson-5-less-basics/lesson-5-less-basics.ipynb)
+- [Lesson 6 - Fancy indexing and Index Tricks](./lesson-6-fancy-indexing-and-index-tricks/lesson-6-fancy-indexing-and-index-tricksipynb)
+- [Lesson 7 - Linear Algebra](./lesson-7-linear-algebra/lesson-7-linear-algebra.ipynb)
+- [Lesson 8 - Tricks and Tips](./lesson-8-tricks-and-tips/lesson-8-tricks-and-tips.ipynb)
+- [Lesson 9 - References](./lesson-9-references/lesson-9-references.ipynb)
